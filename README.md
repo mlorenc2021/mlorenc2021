@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matt</h1>
+<h1 align="center">Hello 👋, I'm Matt</h1>
 <h3 align="center">Dedicated software engineer</h3>
 
 - 🔭 I’m currently working on **becoming a more proficient full-stack developer**
